@@ -11,6 +11,12 @@ class Row extends Component {
             {this.props.product.name}
           </Link>
         </td>
+        <td>
+          {this.props.product.price}
+        </td>
+        <td>
+          {this.props.product.description}
+        </td>
       </tr>
     )
   }

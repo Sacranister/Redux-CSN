@@ -3,7 +3,7 @@ import {
 } from './actions'
 
 const initialState = {
-  data: [{ name: 'asd', price: 'asd', description: 'asd' }, { name: 'asd2', price: 'asd2', description: 'asd2' }],
+  data: [{ name: 'Jarron de Ceramica', price: '10.000', description: 'Bonito jarron de ceramica hecho a mano' }, { name: 'Jarro de Greda', price: '8.000', description: 'Hermoso Jarron de Greda hecho a mano' }],
   loading: true,
 }
 

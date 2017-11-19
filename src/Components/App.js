@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Bar from './Bar'
 import Footer from './Footer'
+import './App.scss'
 
 class App extends Component {
   render() {

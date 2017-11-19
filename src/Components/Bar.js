@@ -6,7 +6,7 @@ export default class Bar extends Component {
       <div className="layout">
         <div className="menu">
           <div className="title">
-            <img width="180" src="https://www.santander.cl/hyf_html/css/bitmaps/logo-santander.png" role="presentation" />
+            Artesanias Ochoa
           </div>
           <div className="menu-items">
             <div className="menu-item">
